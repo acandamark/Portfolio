@@ -19,5 +19,5 @@ Projects
 Connect with Me
 📧 Email: acandamark@gmail.com
 📌 GitHub: https://github.com/acandamark/Portfolio
-💼 Coursera: (https://www.coursera.org/user/19213accca3503c0d776b6768ca29b77)
+💼 Coursera: https://www.coursera.org/user/19213accca3503c0d776b6768ca29b77
 
