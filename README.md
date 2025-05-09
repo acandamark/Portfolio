@@ -11,3 +11,14 @@ Skills & Expertise
 - Healthcare Background: Anesthesiology & Family Medicine
 - Additional Skills: Critical thinking, adaptability, Team Work. 
 
+Projects
+🚀 The Stock Market: A Journey Through Python’s Lens
+📌 Description: A deep dive into historical Tesla & GameStop stock market data, focusing on data extraction and visualization using Python.
+🔗 
+
+Connect with Me
+💼 LinkedIn: Current under "Construction"
+📧 Email: acandamark@gmail.com
+📌 GitHub: 
+
+
