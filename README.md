@@ -19,6 +19,6 @@ Projects
 Connect with Me
 💼 LinkedIn: Current under "Construction"
 📧 Email: acandamark@gmail.com
-📌 GitHub: 
+📌 GitHub: https://github.com/acandamark/Portfolio
 
 
